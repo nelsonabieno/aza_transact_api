@@ -1,24 +1,15 @@
-# README
+# AZA FINANCE FX API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A microservice to store FX transactions
 
-Things you may want to cover:
+## Installation
 
-* Ruby version
+1) `git clone https://github.com/nelsonabieno/aza_transact_api.git`
+2) `cd aza_transact_api`
+3) `bundle install`
+4) `rails s`
 
-* System dependencies
+## Test
 
-* Configuration
+Run `rspec`
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
